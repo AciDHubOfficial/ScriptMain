@@ -1,0 +1,6 @@
+local function Aci(D)
+    loadstring(game:HttpGet(D,true))()
+end
+if game.PlaceId==6766156863 then
+    Aci("https://raw.githubusercontent.com/AciDHubOfficial/ScriptMain/main/Hub.lua")
+end
